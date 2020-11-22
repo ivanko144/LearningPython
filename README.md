@@ -1,2 +1,2 @@
 # LearningPython
-LearningPython
+Repository for LearningPython
